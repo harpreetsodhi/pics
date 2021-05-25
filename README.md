@@ -1,3 +1,5 @@
+# Deployed on GitHub Pages [https://harpreetsodhi.github.io/pics/](https://harpreetsodhi.github.io/pics/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
